@@ -1,6 +1,7 @@
 # movie-library
 
-Small project with search function in properties function. Wanted to add IMDB search, cannot find any good API for that.
+Small project with search-in specific property function. Wanted to add IMDB search, cannot find any good API for that.
+
 
 ## Project setup
 ```
